@@ -3,6 +3,7 @@
 ## GEOINSIGHT: UNVEILING LOCATION CLUES FOR ENHANCED INTELLIGENCE
 
 ## Abstract
+
 "CLAVIN-NERD (CLAVIN Named Entity Recognition and Disambiguation) is a geotagging and geoparsing system designed to recognize location-related entities in text and disambiguate them to specific locations. This report proposes methods to enhance the CLAVIN-NERD model, focusing on text recognition improvement, environment recognition improvement, and location support expansion."
 
 - **Text Recognition Improvement**: This report suggests multiple input text handling methods, custom preprocessing, data augmentation, and character-level models to improve text recognition.
