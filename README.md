@@ -1,5 +1,6 @@
-# University of Auckland Micro Internship
-# GEOINSIGHT: UNVEILING LOCATION CLUES FOR ENHANCED INTELLIGENCE
+# University of Auckland Micro Internship (July- August 2023)
+
+## GEOINSIGHT: UNVEILING LOCATION CLUES FOR ENHANCED INTELLIGENCE
 
 ## Abstract
 "CLAVIN-NERD (CLAVIN Named Entity Recognition and Disambiguation) is a geotagging and geoparsing system designed to recognize location-related entities in text and disambiguate them to specific locations. This report proposes methods to enhance the CLAVIN-NERD model, focusing on text recognition improvement, environment recognition improvement, and location support expansion."
